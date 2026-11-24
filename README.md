@@ -15,11 +15,6 @@ Install the required packages with:
 python -m pip install pandas numpy matplotlib
 ```
 
-## Lab folders
-
-- Labs 1–5 are in `lab-1` through `lab-5`.
-- Labs 6–40 are in `lab6` through `lab40`.
-
 ## Running a lab
 
 Run the script from its folder so it can find any accompanying data files. For example:
