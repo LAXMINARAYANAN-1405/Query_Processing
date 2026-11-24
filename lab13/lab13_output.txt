@@ -1,0 +1,13 @@
+    ord_no  purch_amt  ord_date  customer_id  salesman_id
+0    False      False     False        False        False
+1     True      False     False        False        False
+2    False      False      True        False        False
+3    False      False     False        False         True
+4     True      False     False        False        False
+5    False      False     False        False        False
+6     True      False     False        False        False
+7    False      False     False        False         True
+8    False      False     False        False        False
+9    False      False     False        False        False
+10    True      False     False        False        False
+11   False      False     False        False         True

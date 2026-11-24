@@ -1,0 +1,5 @@
+Shape of the dataset:
+(5, 5)
+
+Column names:
+Index(['Year', 'WHO region', 'Country', 'Beverage Types', 'Display Value'], dtype='object')
